@@ -1,0 +1,86 @@
+body {
+  margin:0;
+  background-color:azure;
+}
+header {
+  position: : relative;
+  padding-left: 100px;
+}
+
+nav {
+  position: absolute;
+  top:0;
+  right: 100px;
+}
+lists  {
+  display:flex;
+    color:pink;
+    list-style-type:none;
+  text-align: center;
+}
+.list {
+    color: chocolate;
+    padding-right:1px;
+    font-weight:500;
+    font-size:25px;
+  }
+.img{ width:450px;
+}
+.chobies{position: absolute;
+  right:200px;
+  top:200px;
+ padding-left:100px;
+  text-align: left;
+ font-size: 20px
+}
+.text{
+  width:100%
+}
+h3 {position:absolute;
+  top:800px;
+  padding-left:100px;
+  text-align: left;
+  font-size: 25px}
+p2{position: absolute;
+  top:900px;
+  padding-left:100px;
+  text-align: left;
+  font-size: 25px}
+
+h4 {position:absolute;
+  top:940px;
+  padding-left:100px;
+  text-align: left;
+  font-size: 25px}
+p3{position: absolute;
+  top:1020px;
+  padding-left:100px;
+  text-align: left;
+  font-size: 25px}
+.flex {
+  display: flex; 
+}
+.flex .image {
+  width: 640px; 
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.flex {
+  display: flex; 
+}
+.flex .image {
+  width: 600p;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  left: 88px;
+}
+.flex .text {
+  font-size: 36px;
+  margin: 0 0 0 20px;
+  padding: 20;
+}
